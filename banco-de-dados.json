@@ -1,0 +1,622 @@
+[
+    {
+        "id": 1,
+        "imagem": "img/airpod.png",
+        "nome": "Airpod",
+        "principal_caracteristica": "Branco",
+        "rating": "4.5",
+        "likes": "91%",
+        "reviews": 25,
+        "descricao": "Experimente a liberdade musical sem limites com os AirPods! Conectividade instantânea, som cristalino e design elegante. Viva a experiência sem fios que redefine a maneira como você ouve música. AirPods: a revolução do áudio sem esforço.",
+        "preco": 1500,
+        "preco_promocional": 1350,
+        "detalhes": [
+            {
+                "caracteristica": "Conectividade",
+                "detalhes": "Bluetooth 5.0 para conexão rápida e estável"
+            },
+            {
+                "caracteristica": "Qualidade de Som",
+                "detalhes": "Áudio nítido e envolvente com tecnologia de cancelamento de ruído"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Ergonômico e discreto, se encaixa perfeitamente no ouvido"
+            },
+            {
+                "caracteristica": "Bateria",
+                "detalhes": "Autonomia de até 5 horas de reprodução contínua, com estojo de carregamento"
+            },
+            {
+                "caracteristica": "Controles",
+                "detalhes": "Toque intuitivo para reprodução, pausa e atendimento de chamadas"
+            },
+            {
+                "caracteristica": "Compatibilidade",
+                "detalhes": "Compatível com dispositivos iOS, Android e outros equipamentos com Bluetooth"
+            },
+            {
+                "caracteristica": "Sensores",
+                "detalhes": "Sensores integrados para pausa automática ao remover dos ouvidos"
+            },
+            {
+                "caracteristica": "Resistência",
+                "detalhes": "Resistente a respingos e suor, ideal para uso durante exercícios físicos"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "imagem": "img/ssd.png",
+        "nome": "SSD NVMe Kingston 1TB",
+        "principal_caracteristica": "Rápido e compacto",
+        "rating": "4.8",
+        "likes": "95%",
+        "reviews": 40,
+        "descricao": "O SSD de 1TB oferece uma velocidade de leitura e gravação incríveis, transformando a performance do seu PC. Diga adeus aos tempos de carregamento longos e aproveite a agilidade que a tecnologia de estado sólido pode oferecer.",
+        "preco": 600,
+        "preco_promocional": 550,
+        "detalhes": [
+            {
+                "caracteristica": "Capacidade",
+                "detalhes": "1TB"
+            },
+            {
+                "caracteristica": "Velocidade",
+                "detalhes": "Velocidade de leitura de até 3500 MB/s"
+            },
+            {
+                "caracteristica": "Tipo",
+                "detalhes": "SSD M.2 NVMe"
+            },
+            {
+                "caracteristica": "Durabilidade",
+                "detalhes": "Maior resistência a impactos e vibrações"
+            },
+            {
+                "caracteristica": "Formato",
+                "detalhes": "Compacto, ideal para notebooks e desktops"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "imagem": "img/hdexterno.png",
+        "nome": "HD Externo Seagate 2TB",
+        "principal_caracteristica": "Ampla capacidade de armazenamento",
+        "rating": "4.2",
+        "likes": "88%",
+        "reviews": 15,
+        "descricao": "Expanda seu espaço de armazenamento com este HD Externo de 2TB. Perfeito para backups, guardar fotos, vídeos e todos os seus arquivos importantes com segurança e praticidade.",
+        "preco": 450,
+        "preco_promocional": 410,
+        "detalhes": [
+            {
+                "caracteristica": "Capacidade",
+                "detalhes": "2TB"
+            },
+            {
+                "caracteristica": "Conectividade",
+                "detalhes": "USB 3.0 para transferências de dados rápidas"
+            },
+            {
+                "caracteristica": "Compatibilidade",
+                "detalhes": "Funciona com Windows, Mac e Linux"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Portátil e leve"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "imagem": "img/iphone.png",
+        "nome": "iPhone 15 Pro Max",
+        "principal_caracteristica": "Design em titânio",
+        "rating": "4.9",
+        "likes": "98%",
+        "reviews": 120,
+        "descricao": "O iPhone 15 Pro é a união perfeita de potência, elegância e inovação. Com a câmera mais avançada já vista e o novo botão de ação, ele redefine o que um smartphone pode fazer.",
+        "preco": 9800,
+        "preco_promocional": 9500,
+        "detalhes": [
+            {
+                "caracteristica": "Tela",
+                "detalhes": "Tela Super Retina XDR de 6,1 polegadas"
+            },
+            {
+                "caracteristica": "Câmera",
+                "detalhes": "Sistema de câmera Pro com lentes de 48MP"
+            },
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Chip A17 Bionic"
+            },
+            {
+                "caracteristica": "Material",
+                "detalhes": "Estrutura em titânio de nível aeroespacial"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "imagem": "img/macbook.png",
+        "nome": "Macbook Air M2",
+        "principal_caracteristica": "Leve e poderoso",
+        "rating": "4.7",
+        "likes": "94%",
+        "reviews": 35,
+        "descricao": "O Macbook Air M2 oferece um desempenho extraordinário em um design incrivelmente fino e leve. A bateria de longa duração e a tela Liquid Retina tornam-no ideal para trabalho e entretenimento.",
+        "preco": 12000,
+        "preco_promocional": 11500,
+        "detalhes": [
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Chip M2 da Apple"
+            },
+            {
+                "caracteristica": "Bateria",
+                "detalhes": "Até 18 horas de autonomia"
+            },
+            {
+                "caracteristica": "Tela",
+                "detalhes": "Tela Liquid Retina de 13,6 polegadas"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Estrutura em alumínio leve e compacto"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "imagem": "img/monitor.png",
+        "nome": "Monitor Gamer Samsung Odyssey",
+        "principal_caracteristica": "Curvo, 27\" 144Hz, Full HD",
+        "rating": "4.6",
+        "likes": "92%",
+        "reviews": 50,
+        "descricao": "Mergulhe na ação com este monitor gamer de 144Hz. A taxa de atualização alta garante imagens fluidas e sem rastros, dando a você uma vantagem competitiva em qualquer jogo.",
+        "preco": 1200,
+        "preco_promocional": 1100,
+        "detalhes": [
+            {
+                "caracteristica": "Tela",
+                "detalhes": "24 polegadas"
+            },
+            {
+                "caracteristica": "Resolução",
+                "detalhes": "Full HD (1920x1080)"
+            },
+            {
+                "caracteristica": "Taxa de Atualização",
+                "detalhes": "144Hz"
+            },
+            {
+                "caracteristica": "Tempo de Resposta",
+                "detalhes": "1ms"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "imagem": "img/mouse.png",
+        "nome": "Mouse Gamer Logitech G502",
+        "principal_caracteristica": "RGB, 12000 DPI",
+        "rating": "4.4",
+        "likes": "89%",
+        "reviews": 28,
+        "descricao": "Precisão e conforto em suas mãos. Este mouse gamer com sensor de alta precisão e iluminação RGB personalizável é ideal para longas sessões de jogo.",
+        "preco": 150,
+        "preco_promocional": 130,
+        "detalhes": [
+            {
+                "caracteristica": "Sensor",
+                "detalhes": "Óptico de alta precisão"
+            },
+            {
+                "caracteristica": "DPI",
+                "detalhes": "Até 12000 DPI"
+            },
+            {
+                "caracteristica": "Iluminação",
+                "detalhes": "RGB personalizável"
+            },
+            {
+                "caracteristica": "Botões",
+                "detalhes": "6 botões programáveis"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "imagem": "img/notebook.png",
+        "nome": "Notebook Dell Inspiron 15",
+        "principal_caracteristica": "Core i7",
+        "rating": "4.5",
+        "likes": "90%",
+        "reviews": 60,
+        "descricao": "Equipado com um processador Core i7 de última geração, este notebook é perfeito para multitarefas pesadas, edição de vídeo e programas de design. Potência e portabilidade lado a lado.",
+        "preco": 5800,
+        "preco_promocional": 5500,
+        "detalhes": [
+            {
+                "caracteristica": "Processador",
+                "detalhes": "Intel Core i7 de 13ª geração"
+            },
+            {
+                "caracteristica": "RAM",
+                "detalhes": "16GB de memória RAM"
+            },
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "512GB SSD"
+            },
+            {
+                "caracteristica": "Tela",
+                "detalhes": "15,6 polegadas Full HD"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "imagem": "img/placadevideo.png",
+        "nome": "Placa de Vídeo NVIDIA RTX 3060 Ti",
+        "principal_caracteristica": "Ray Tracing, 12GB",
+        "rating": "4.9",
+        "likes": "97%",
+        "reviews": 75,
+        "descricao": "A Placa de Vídeo RTX 3060 Ti redefine a experiência visual. Com suporte a Ray Tracing e DLSS, seus jogos e renderizações atingirão um novo nível de realismo e performance.",
+        "preco": 5000,
+        "preco_promocional": 4750,
+        "detalhes": [
+            {
+                "caracteristica": "Memória",
+                "detalhes": "12GB GDDR6X"
+            },
+            {
+                "caracteristica": "Interface",
+                "detalhes": "PCI Express 4.0"
+            },
+            {
+                "caracteristica": "Tecnologias",
+                "detalhes": "Ray Tracing, DLSS 3"
+            },
+            {
+                "caracteristica": "Conexões",
+                "detalhes": "HDMI 2.1, DisplayPort 1.4a"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "imagem": "img/placamae.png",
+        "nome": "Placa-Mãe ASUS TUF Gaming B550M",
+        "principal_caracteristica": "Suporte a PCIe 4.0",
+        "rating": "4.3",
+        "likes": "87%",
+        "reviews": 22,
+        "descricao": "A base do seu PC. Esta placa mãe B550 oferece estabilidade e suporte para os processadores mais recentes, além de slots PCIe 4.0 para velocidades ultrarrápidas.",
+        "preco": 900,
+        "preco_promocional": 850,
+        "detalhes": [
+            {
+                "caracteristica": "Socket",
+                "detalhes": "AM4"
+            },
+            {
+                "caracteristica": "Chipset",
+                "detalhes": "AMD B550"
+            },
+            {
+                "caracteristica": "Memória",
+                "detalhes": "Suporte a DDR4 até 4400MHz"
+            },
+            {
+                "caracteristica": "Slots",
+                "detalhes": "1x PCIe 4.0 x16"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "imagem": "img/processador.png",
+        "nome": "Processador AMD Ryzen 7 5800X",
+        "principal_caracteristica": "8 Cores, 16 Threads",
+        "rating": "4.8",
+        "likes": "96%",
+        "reviews": 55,
+        "descricao": "O Processador Ryzen 7 é o coração de um PC poderoso. Com 8 núcleos e 16 threads, ele é ideal para jogos de alta performance e tarefas profissionais que exigem muito do processamento.",
+        "preco": 1800,
+        "preco_promocional": 1700,
+        "detalhes": [
+            {
+                "caracteristica": "Núcleos",
+                "detalhes": "8 núcleos, 16 threads"
+            },
+            {
+                "caracteristica": "Clock",
+                "detalhes": "Base: 3.8 GHz, Max Boost: 4.7 GHz"
+            },
+            {
+                "caracteristica": "Socket",
+                "detalhes": "AM4"
+            },
+            {
+                "caracteristica": "Gráficos",
+                "detalhes": "Não possui gráficos integrados"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "imagem": "img/ram.png",
+        "nome": "Memória RAM Corsair Vengeance 16GB",
+        "principal_caracteristica": "3200MHz",
+        "rating": "4.6",
+        "likes": "99%",
+        "reviews": 30,
+        "descricao": "Aumente a velocidade e a capacidade de resposta do seu computador. Este kit de memória RAM de 16GB a 3200MHz garante que seu sistema rode tudo com fluidez.",
+        "preco": 380,
+        "preco_promocional": 350,
+        "detalhes": [
+            {
+                "caracteristica": "Capacidade",
+                "detalhes": "16GB (2x8GB)"
+            },
+            {
+                "caracteristica": "Velocidade",
+                "detalhes": "3200MHz"
+            },
+            {
+                "caracteristica": "Tipo",
+                "detalhes": "DDR4"
+            },
+            {
+                "caracteristica": "Latência",
+                "detalhes": "CL16"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "imagem": "img/teclado.png",
+        "nome": "Teclado Mecânico Redragon Kumara",
+        "principal_caracteristica": "Switches azuis",
+        "rating": "4.7",
+        "likes": "94%",
+        "reviews": 45,
+        "descricao": "Este teclado mecânico oferece uma resposta tátil e sonora satisfatória. Perfeito para gamers e profissionais que buscam digitação precisa e confortável.",
+        "preco": 250,
+        "preco_promocional": 230,
+        "detalhes": [
+            {
+                "caracteristica": "Tipo de Switch",
+                "detalhes": "Switches mecânicos azuis"
+            },
+            {
+                "caracteristica": "Iluminação",
+                "detalhes": "Iluminação de fundo branca"
+            },
+            {
+                "caracteristica": "Layout",
+                "detalhes": "ABNT2"
+            },
+            {
+                "caracteristica": "Conectividade",
+                "detalhes": "USB com fio"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "imagem": "img/xbox.png",
+        "nome": "Xbox Series X",
+        "principal_caracteristica": "1TB, 4K nativo",
+        "rating": "4.9",
+        "likes": "99%",
+        "reviews": 150,
+        "descricao": "O Xbox Series X é o console mais poderoso da Microsoft. Jogue em 4K nativo e aproveite tempos de carregamento ultra rápidos com o SSD customizado.",
+        "preco": 4800,
+        "preco_promocional": 4600,
+        "detalhes": [
+            {
+                "caracteristica": "Armazenamento",
+                "detalhes": "1TB SSD"
+            },
+            {
+                "caracteristica": "Resolução",
+                "detalhes": "4K nativo, suporte a 8K"
+            },
+            {
+                "caracteristica": "Unidade de Disco",
+                "detalhes": "Blu-ray 4K Ultra HD"
+            },
+            {
+                "caracteristica": "Tempo de Carregamento",
+                "detalhes": "Ultra rápido com a tecnologia Xbox Velocity Architecture"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "imagem": "img/colcha.png",
+        "nome": "Colcha Boutis Queen",
+        "principal_caracteristica": "Matelassê, dupla face",
+        "rating": "4.6",
+        "likes": "93%",
+        "reviews": 35,
+        "descricao": "Deixe seu quarto mais elegante e aconchegante com a Colcha Boutis. O matelassê em alto relevo e o design dupla face oferecem versatilidade e um toque de sofisticação para sua cama.",
+        "preco": 250,
+        "preco_promocional": 225,
+        "detalhes": [
+            {
+                "caracteristica": "Tecido",
+                "detalhes": "100% microfibra"
+            },
+            {
+                "caracteristica": "Acabamento",
+                "detalhes": "Matelassê com costura reforçada"
+            },
+            {
+                "caracteristica": "Tamanho",
+                "detalhes": "Queen (240 x 260 cm)"
+            },
+            {
+                "caracteristica": "Design",
+                "detalhes": "Dupla face (duas cores diferentes)"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "imagem": "img/edredom.png",
+        "nome": "Edredom Casal Microfibra",
+        "principal_caracteristica": "Ultra macio, antialérgico",
+        "rating": "4.8",
+        "likes": "97%",
+        "reviews": 50,
+        "descricao": "Para noites de sono perfeitas, o Edredom de Microfibra proporciona o máximo de conforto e maciez. Leve e aconchegante, é ideal para o inverno e para pessoas com sensibilidade.",
+        "preco": 200,
+        "preco_promocional": 180,
+        "detalhes": [
+            {
+                "caracteristica": "Material",
+                "detalhes": "Microfibra de poliéster antialérgico"
+            },
+            {
+                "caracteristica": "Enchimento",
+                "detalhes": "Fibra de silicone"
+            },
+            {
+                "caracteristica": "Tamanho",
+                "detalhes": "Casal (220 x 240 cm)"
+            },
+            {
+                "caracteristica": "Temperatura",
+                "detalhes": "Ideal para temperaturas mais frias"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "imagem": "img/jogo_cama.png",
+        "nome": "Jogo de Cama King",
+        "principal_caracteristica": "400 fios, 100% algodão",
+        "rating": "4.9",
+        "likes": "98%",
+        "reviews": 75,
+        "descricao": "Transforme sua cama em um refúgio de luxo com este Jogo de Cama de 400 fios. A suavidade do algodão puro e a alta contagem de fios garantem uma experiência de sono inigualável.",
+        "preco": 450,
+        "preco_promocional": 410,
+        "detalhes": [
+            {
+                "caracteristica": "Material",
+                "detalhes": "100% algodão"
+            },
+            {
+                "caracteristica": "Fios",
+                "detalhes": "400 fios"
+            },
+            {
+                "caracteristica": "Conteúdo",
+                "detalhes": "4 peças: 1 lençol de cima, 1 lençol com elástico, 2 fronhas"
+            },
+            {
+                "caracteristica": "Tamanho",
+                "detalhes": "King (280 x 260 cm)"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "imagem": "img/toalha_banho.png",
+        "nome": "Toalha de Banho Gigante",
+        "principal_caracteristica": "Algodão Egípcio, 1200g/m²",
+        "rating": "4.7",
+        "likes": "95%",
+        "reviews": 60,
+        "descricao": "Envolva-se em puro luxo após o banho com a Toalha Gigante de Algodão Egípcio. Com alta gramatura, ela oferece uma absorção superior e uma sensação de toque extremamente macia e aveludada.",
+        "preco": 80,
+        "preco_promocional": 72,
+        "detalhes": [
+            {
+                "caracteristica": "Material",
+                "detalhes": "Algodão Egípcio"
+            },
+            {
+                "caracteristica": "Gramatura",
+                "detalhes": "1200g/m²"
+            },
+            {
+                "caracteristica": "Tamanho",
+                "detalhes": "Gigante (90 x 160 cm)"
+            },
+            {
+                "caracteristica": "Absorção",
+                "detalhes": "Alta capacidade de absorção"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "imagem": "img/toalha_mesa.png",
+        "nome": "Toalha de Mesa Retangular",
+        "principal_caracteristica": "Impermeável, 8 lugares",
+        "rating": "4.4",
+        "likes": "90%",
+        "reviews": 20,
+        "descricao": "Adicione um toque de elegância à sua sala de jantar com a Toalha de Mesa Impermeável. Além de bela, ela protege sua mesa contra líquidos e manchas, facilitando a limpeza do dia a dia.",
+        "preco": 120,
+        "preco_promocional": 108,
+        "detalhes": [
+            {
+                "caracteristica": "Material",
+                "detalhes": "Poliéster impermeável"
+            },
+            {
+                "caracteristica": "Tamanho",
+                "detalhes": "Retangular (140 x 210 cm)"
+            },
+            {
+                "caracteristica": "Capacidade",
+                "detalhes": "8 lugares"
+            },
+            {
+                "caracteristica": "Cuidados",
+                "detalhes": "Fácil de limpar, pode ser lavada na máquina"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "imagem": "img/travesseiro.png",
+        "nome": "Travesseiro de Pluma de Ganso",
+        "principal_caracteristica": "Suporte macio e alto",
+        "rating": "4.5",
+        "likes": "92%",
+        "reviews": 45,
+        "descricao": "Tenha o suporte ideal para seu pescoço e cabeça com o Travesseiro de Pluma de Ganso. Ele se adapta perfeitamente à sua forma, garantindo um alinhamento perfeito da coluna e um sono reparador.",
+        "preco": 100,
+        "preco_promocional": 90,
+        "detalhes": [
+            {
+                "caracteristica": "Enchimento",
+                "detalhes": "100% pluma de ganso"
+            },
+            {
+                "caracteristica": "Suporte",
+                "detalhes": "Suporte médio a alto"
+            },
+            {
+                "caracteristica": "Material",
+                "detalhes": "Capa 100% algodão"
+            },
+            {
+                "caracteristica": "Benefícios",
+                "detalhes": "Hipoalergênico e antiácaro"
+            }
+        ]
+    }
+]

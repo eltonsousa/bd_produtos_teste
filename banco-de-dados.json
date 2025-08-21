@@ -2,7 +2,11 @@
     {
         "id": 1,
         "imagem": "img/airpod.png",
+<<<<<<< HEAD
         "nome": "Airpod Mini Teste",
+=======
+        "nome": "Airpod Mini 2",
+>>>>>>> 2abcaee259e3f178d77f4faed227a4baa83ad586
         "principal_caracteristica": "Branco",
         "rating": "4.5",
         "likes": "91%",
